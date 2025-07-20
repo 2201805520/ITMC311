@@ -1,0 +1,7 @@
+<resources>
+    <color name="background_color">#F9F9F9</color>
+    <color name="primary_text">#333333</color>
+    <color name="button_text">#FFFFFF</color>
+    <color name="button_background">#4CAF50</color>
+    <color name="circle_color">#FF5722</color>
+</resources>
